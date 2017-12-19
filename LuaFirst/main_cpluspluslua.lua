@@ -14,6 +14,7 @@ ltab =
 
 print("====== C++ Lua 4 ======")
 print("c++ tab " .. "name = " .. ctab["name"] .. " age = " .. ctab["age"])
+--print("2 c++ tab " .. "name = " .. ctab.name .. " age = " .. ctab.age)
 
 print("====== C++ Lua 5 ======")
 function levent1()
